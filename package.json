@@ -18,12 +18,12 @@
             "remobile",
             "mobile"
         ],
-        "homepage": "https://github.com/remobile/react-native-toast",
+        "homepage": "https://github.com/orhan/react-native-toast",
         "bugs": {
-            "url": "https://github.com/remobile/react-native-toast/issues"
+            "url": "https://github.com/orhan/react-native-toast/issues"
         },
         "repository": {
             "type": "git",
-            "url": "git://github.com/remobile/react-native-toast.git"
+            "url": "git://github.com/orhan/react-native-toast.git"
         }
 }
